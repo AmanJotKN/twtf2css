@@ -1,0 +1,23 @@
+*{
+   box-sizing: border-box;
+   margin:0;
+   padding:0;
+}
+
+.div1{
+    height:auto;
+    width:300px;
+    background-color: antiquewhite;
+    border:12px dotted rgb(255, 159, 24);
+    padding:50px;
+    margin:50px;
+text-align: center;
+line-height: 50px;
+    box-sizing: border-box;
+    /* text-decoration: line-through;
+    text-decoration-style: wavy; */
+    text-transform: uppercase;
+    /* letter-spacing: 15px; */
+    word-spacing: 50px;
+    text-shadow: 2px 2px 8px red;
+}
